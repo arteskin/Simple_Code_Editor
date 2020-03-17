@@ -1,2 +1,2 @@
-# Simple_Code_Editor
+# Simple Code Editor
 Simple code editor with live reload
